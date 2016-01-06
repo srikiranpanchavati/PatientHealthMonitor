@@ -1,0 +1,14 @@
+D:\BussinessLayer\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\BussinessLayer\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\BussinessLayer\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\BussinessLayer\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\BussinessLayer\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\BussinessLayer\BussinessLayer\bin\Debug\DataAccess.dll
+D:\BussinessLayer\BussinessLayer\bin\Debug\DataAccess.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\obj\Debug\BussinessLayer.dll
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\obj\Debug\BussinessLayer.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\bin\Debug\BussinessLayer.dll
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\bin\Debug\BussinessLayer.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\bin\Debug\DataAccess.dll
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\bin\Debug\DataAccess.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\BLL\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache

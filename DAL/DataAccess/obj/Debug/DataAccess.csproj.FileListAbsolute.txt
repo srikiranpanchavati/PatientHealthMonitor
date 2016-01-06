@@ -1,0 +1,10 @@
+D:\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+D:\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+D:\DataAccess\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+D:\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\DAL\DataAccess\bin\Debug\DataAccess.dll
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\DAL\DataAccess\bin\Debug\DataAccess.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\DAL\DataAccess\obj\Debug\DataAccess.dll
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\DAL\DataAccess\obj\Debug\DataAccess.pdb
+G:\WorkspaceC#\Group_3\Patient Health Monitor-webrulers\Patient Health Monitor\DAL\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

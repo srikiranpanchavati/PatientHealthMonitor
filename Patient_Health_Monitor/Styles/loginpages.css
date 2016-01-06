@@ -1,0 +1,77 @@
+﻿body   
+{
+    background-color: #613d2d;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+}
+
+.heading
+{ 
+    color:Silver;
+    font-family:Lucida Sans;
+}
+
+.loggo
+{
+    float:left;
+    height: 54px;
+    width: 507px;
+}
+
+.table
+{
+    width: 112%;
+    position :relative;
+    top: 18% ;
+    left: 27%
+}
+
+.tablereg
+{
+    width:50%;
+    position : fixed;
+    top: 160px;
+    left: 450px;
+    height: 250px;
+}
+
+
+
+.login
+{
+    background-color: #f9e3cb;
+    width: 35%;
+    height : 70%;
+    position:relative;
+    top: 80px;
+    right:50px;
+    left:775px;
+    margin-bottom: 0px;
+}
+
+.loginreg
+{
+    background-color: #f9e3cb;
+    width: 500px;
+    height : 300px;
+    position:fixed;
+    top: 150px;
+    left:400px;
+    
+    margin-bottom: 0px;
+}
+
+
+
+.legend
+{
+   
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+     
+}

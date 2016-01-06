@@ -1,0 +1,14 @@
+﻿
+            <asp:Button SkinId="sk1" runat="server" BackColor="#8A6552" Height="30px" 
+            Width="80px"
+            BorderColor="#F9E3CB" BorderStyle="Dotted" ForeColor="#F9E3CB" />
+
+            <asp:TextBox SkinID="sktxt" runat="server" BackColor="#F9E3CB" 
+            BorderColor="#8A6552" BorderStyle="Solid" BorderWidth="2px" Height="20px" 
+            Width="115px"></asp:TextBox>
+
+            <asp:Button SkinId="sk2" runat="server" BackColor="#8A6552" Height="30px" 
+            Width="115px"
+            BorderColor="#F9E3CB" BorderStyle="Dotted" ForeColor="#F9E3CB" />
+
+
